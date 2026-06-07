@@ -1,5 +1,5 @@
 Inicio
-Función evaluar_mano(mano)
+Función evaluar_mano(mano)...
 
     Comparar si la mano es Poker
 
