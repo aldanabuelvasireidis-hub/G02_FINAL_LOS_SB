@@ -1,0 +1,23 @@
+Inicio
+Función es_carta_alta(mano)
+
+    Comparar si no existe
+
+        Par
+        Doble Par
+        Trío
+        Escalera
+        Color
+        Full House
+        Poker
+
+    Si la condición es verdadera
+
+        Retornar Verdadero
+
+    Fin Si
+
+    Retornar Falso
+
+Fin Función
+Fin
