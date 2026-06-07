@@ -1,0 +1,20 @@
+Inicio
+Función es_poker(mano)
+
+    Llamar contar_valores()
+
+    Para cada valor en valores
+
+        Comparar si el valor aparece 4 veces
+
+        Si la condición es verdadera
+
+            Retornar Verdadero
+
+        Fin Si
+
+    Fin Para
+
+    Retornar Falso
+
+Fin

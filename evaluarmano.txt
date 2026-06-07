@@ -1,0 +1,76 @@
+Inicio
+Función evaluar_mano(mano)
+
+    Comparar si la mano es Poker
+
+    Si la condición es verdadera
+
+        Mostrar "Combinación: Poker"
+
+    Sino
+
+        Comparar si la mano es Full House
+
+        Si la condición es verdadera
+
+            Mostrar "Combinación: Full House"
+
+        Sino
+
+            Comparar si la mano es Color
+
+            Si la condición es verdadera
+
+                Mostrar "Combinación: Color"
+
+            Sino
+
+                Comparar si la mano es Escalera
+
+                Si la condición es verdadera
+
+                    Mostrar "Combinación: Escalera"
+
+                Sino
+
+                    Comparar si la mano es Trío
+
+                    Si la condición es verdadera
+
+                        Mostrar "Combinación: Trío"
+
+                    Sino
+
+                        Comparar si la mano es Doble Par
+
+                        Si la condición es verdadera
+
+                            Mostrar "Combinación: Doble Par"
+
+                        Sino
+
+                            Comparar si la mano es Par
+
+                            Si la condición es verdadera
+
+                                Mostrar "Combinación: Par"
+
+                            Sino
+
+                                Mostrar "Combinación: Carta Alta"
+
+                            Fin Si
+
+                        Fin Si
+
+                    Fin Si
+
+                Fin Si
+
+            Fin Si
+
+        Fin Si
+
+    Fin Si
+
+Fin

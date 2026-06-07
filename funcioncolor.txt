@@ -1,0 +1,20 @@
+Inicio
+Función es_color(mano)
+
+    Obtener el palo de la primera carta
+
+    Para cada carta en mano
+
+        Comparar el palo de la carta con el primer palo
+
+        Si son diferentes
+
+            Retornar Falso
+
+        Fin Si
+
+    Fin Para
+
+    Retornar Verdadero
+
+Fin

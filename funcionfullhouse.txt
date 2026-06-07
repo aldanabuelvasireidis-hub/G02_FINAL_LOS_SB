@@ -1,0 +1,40 @@
+Inicio
+Función es_full_house(mano)
+
+    Llamar contar_valores()
+
+    Definir variable tiene_par con valor Falso
+
+    Definir variable tiene_trio con valor Falso
+
+    Para cada valor en valores
+
+        Comparar si el valor aparece 2 veces
+
+        Si la condición es verdadera
+
+            Asignar Verdadero a tiene_par
+
+        Fin Si
+
+        Comparar si el valor aparece 3 veces
+
+        Si la condición es verdadera
+
+            Asignar Verdadero a tiene_trio
+
+        Fin Si
+
+    Fin Para
+
+    Comparar si tiene_par y tiene_trio son Verdaderos
+
+    Si la condición es verdadera
+
+        Retornar Verdadero
+
+    Fin Si
+
+    Retornar Falso
+
+Fin

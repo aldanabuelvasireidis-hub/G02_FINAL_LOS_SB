@@ -1,0 +1,40 @@
+Inicio
+Función menu
+
+    Definir variable opción con valor 0
+
+    Mientras opción sea diferente de 2
+
+        Mostrar "----- POKER -----"
+
+        Mostrar "1. Jugar"
+
+        Mostrar "2. Salir"
+
+        Leer opción
+
+        Comparar si opción es igual a 1
+
+        Si la condición es verdadera
+
+            Llamar iniciar_juego()
+
+        Sino
+
+            Comparar si opción es igual a 2
+
+            Si la condición es verdadera
+
+                Mostrar "Fin del juego"
+
+            Sino
+
+                Mostrar "Opción inválida"
+
+            Fin Si
+
+        Fin Si
+
+    Fin Mientras
+
+Fin

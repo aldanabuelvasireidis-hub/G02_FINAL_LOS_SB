@@ -1,0 +1,14 @@
+Inicio
+Función mostrar_cartas(mano)
+
+    Mostrar "Cartas del jugador"
+
+    Para cada carta en mano
+
+        Mostrar valor de la carta
+        Mostrar "de"
+        Mostrar palo de la carta
+
+    Fin Para
+
+Fin

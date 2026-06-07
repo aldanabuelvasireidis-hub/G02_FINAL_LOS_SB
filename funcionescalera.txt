@@ -1,0 +1,30 @@
+Inicio
+Función es_escalera(mano)
+
+    Definir diccionario de equivalencias
+
+    Definir lista números vacía
+
+    Para cada carta en mano
+
+        Obtener valor de la carta
+
+        Convertir el valor a número
+
+        Agregar número a la lista
+
+    Fin Para
+
+    Ordenar lista números
+
+    Comparar si todos los números son consecutivos
+
+    Si la condición es verdadera
+
+        Retornar Verdadero
+
+    Fin Si
+
+    Retornar Falso
+
+Fin

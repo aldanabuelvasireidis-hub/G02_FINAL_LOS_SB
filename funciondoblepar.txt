@@ -1,0 +1,30 @@
+Inicio
+Función es_doble_par(mano)
+
+    Llamar contar_valores()
+
+    Definir contador con valor 0
+
+    Para cada valor en valores
+
+        Comparar si el valor aparece 2 veces
+
+        Si la condición es verdadera
+
+            Sumar 1 al contador
+
+        Fin Si
+
+    Fin Para
+
+    Comparar si el contador es igual a 2
+
+    Si la condición es verdadera
+
+        Retornar Verdadero
+
+    Fin Si
+
+    Retornar Falso
+
+Fin

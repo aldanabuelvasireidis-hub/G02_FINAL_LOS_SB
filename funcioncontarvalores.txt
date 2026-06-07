@@ -1,0 +1,26 @@
+Inicio
+Función contar_valores(mano)
+
+    Definir diccionario valores vacío
+
+    Para cada carta en mano
+
+        Obtener valor de la carta
+
+        Comparar si el valor existe en valores
+
+        Si la condición es verdadera
+
+            Sumar 1 al valor
+
+        Sino
+
+            Agregar valor con cantidad 1
+
+        Fin Si
+
+    Fin Para
+
+    Retornar valores
+
+Fin

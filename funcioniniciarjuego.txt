@@ -1,0 +1,26 @@
+Inicio
+Función iniciar_juego
+
+    Definir lista mano vacía
+
+    Mostrar "Bienvenido al Poker"
+
+    Para i desde 0 hasta 4
+
+        Mostrar "Carta"
+
+        Mostrar i + 1
+
+        Leer valor
+
+        Leer palo
+
+        Agregar valor y palo a la lista mano
+
+    Fin Para
+
+    Llamar mostrar_cartas()
+
+    Llamar evaluar_mano()
+
+Fin
